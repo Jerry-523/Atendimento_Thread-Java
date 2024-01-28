@@ -24,17 +24,13 @@ fila a cada 10 segundos e imprime uma mensagem com o número de estudantes na fi
 #### Output:
 ```
 Estudante Maria está sendo atendido pelo atendente Luciana
-```
-```
+
 Estudante Alex está sendo atendido pelo atendente Adalgiza
-```
-```
+
 Estudante Marco está sendo atendido pelo atendente Dora
-```
-```
+
 Estudante Maria terminou o atendimento. Tempo de atendimento: 5 segundos
-```
-```
+
 Estudante Ana está sendo atendido pelo atendente Luciana
 ```
 ```
@@ -46,13 +42,10 @@ Estudante Ana está sendo atendido pelo atendente Luciana
 ```
 ...
 Existem 7 estudante na fila
-```
-```
+
 Existem 5 estudante na fila
-```
-```
+
 Existem 2 estudante na fila
-```
-```
+
 Todos os estudante foram atendidos
 ```
